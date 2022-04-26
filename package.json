@@ -1,0 +1,19 @@
+{
+  "name": "@targeral/typescript-utils",
+  "version": "0.0.1",
+  "description": "typescript utils",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/targeral/typescript-utils.git"
+  },
+  "author": "高博文",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/targeral/typescript-utils/issues"
+  },
+  "homepage": "https://github.com/targeral/typescript-utils#readme"
+}
